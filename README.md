@@ -1,5 +1,5 @@
-# MSSQL-DBA-SERIES
-This series contains various MSSQL scripts to help DBA's
+# DATABASE-SERIES
+This series contains various MSSQL and ORACLE scripts to help DBA's
 ## 1. SQL Server Missing Indexes Analysis
 
 ## Overview
